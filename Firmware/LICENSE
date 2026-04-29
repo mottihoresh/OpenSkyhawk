@@ -1,0 +1,21 @@
+GNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
+
+Copyright (c) 2026
+
+This program is free software; you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation; either version 2 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+Full license text: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+---
+This firmware uses DCS-BIOS (https://github.com/dcs-bios/dcs-bios), which is
+licensed under GPL v2. This license applies to all code in the /Firmware directory.
+
+Hardware designs, PCB files, CAD files, and documentation in the parent repository
+are licensed separately under CC BY-NC-SA 4.0 (see ../LICENSE).

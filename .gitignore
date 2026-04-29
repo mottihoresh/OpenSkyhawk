@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Fusion 360
+*.lock
+*.tmp
+
+# KiCad
+*.000
+*.bak
+*.kicad_prl
+*-backups/
+fp-info-cache
+
+# Arduino / IDE
+*.elf
+*.hex
+*.bin
+build/
+
+# Exports (generated — commit sources, not outputs)
+**/*.stl
+**/*.gbl
+**/*.gtl
+**/*.gbs
+**/*.gts
+**/*.gbr
+**/*.drl
+**/*.zip
